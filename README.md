@@ -1,5 +1,6 @@
 # Frontend Teacher (Consultant or full-time)
 Location: Stockholm
+
 Format: Full-time, consultant, or half-time. 
 
 **Technigo is a new form of education, a fast paced tech education formed to teach front-end developers in the latest technologies. We’re proud to have an extremely high percentage of female participants in our full-time programming educations – a number that is unheard of from other programming educations. Our initiatives and organisations are often featured in media and TV and our founders have been featured as a few of the most powerful women in technology by ELLE Magazine and Expressen.** 
@@ -10,7 +11,7 @@ We’re currently looking for someone who can take lead in teaching new students
 
 The role is based in Stockholm and can both be full-time employment or on consultancy basis. You’ll work in a smaller team to ensure that our students will get the help they need and you’ll be a key player in pushing us forward technically. 
 
-## A few of this things you’ll do in the role: 
+## In this role,you will:: 
 
 * **Take lead in the tech area.** Making sure that we teach the right skills, that our materials are up to date and help form future material and learning experiences together with the rest of our team. 
 * **Help others.** By giving support in our online forum, do live code alongs on webinars, and do code reviews for our students. 
